@@ -40,6 +40,8 @@ By subtracting 1 from odd square numbers (such as 9, 25, and 49), we get results
 - `49 - 1 = 48` (8 × the 3rd triangular number, which is 6)
 
 The general form of the relationship is:
+
+
 `n²-1=8T_k`
   
 where `n` is an odd integer, and `T_k` is the `k`-th triangular number.
