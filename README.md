@@ -36,8 +36,8 @@ By manipulating the number 48, we find that both `48 + 1 = 49` (a square number)
 ### 2. **Odd square numbers minus 1 equals 8 times triangular numbers**
 By subtracting 1 from odd square numbers (such as 9, 25, and 49), we get results that are exactly 8 times triangular numbers. For example:
 - `9 - 1 = 8` (8 × the 1st triangular number, which is 1)
-- `25 - 1 = 24` (8 × the 3rd triangular number, which is 3)
-- `49 - 1 = 48` (8 × the 6th triangular number, which is 6)
+- `25 - 1 = 24` (8 × the 2nd triangular number, which is 3)
+- `49 - 1 = 48` (8 × the 4rd triangular number, which is 6)
 
 ## 🧠 Exploring Mathematical Patterns
 
