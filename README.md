@@ -39,6 +39,11 @@ By subtracting 1 from odd square numbers (such as 9, 25, and 49), we get results
 - `25 - 1 = 24` (8 × the 2nd triangular number, which is 3)
 - `49 - 1 = 48` (8 × the 3rd triangular number, which is 6)
 
+The general form of the relationship is:
+`n²-1=8T_k`
+  
+where `n` is an odd integer, and `T_k` is the `k`-th triangular number.
+
 ## 🧠 Exploring Mathematical Patterns
 
 This repository contains Python scripts and documentation to help you explore and identify similar mathematical relationships. The goal is to uncover more such hidden patterns and provide tools for discovering new ones.
