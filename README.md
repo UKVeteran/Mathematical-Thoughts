@@ -6,7 +6,7 @@ Welcome to the **Mathematical Thoughts** repository! This is where we explore in
 
 In this repository, we dive into various mathematical concepts, with a focus on:
 
-- **Relationships between squares and other number forms**: Exploring how certain numbers, when manipulated in specific ways, reveal surprising results. For instance, the case where `48 + 1` and `48/2 + 1` both result in perfect squares.
+- **Relationships between squares and other number forms**: Exploring how certain numbers, when manipulated in specific ways, reveal surprising results. For instance, the case where `48 + 1` and `48/2 + 1` both result in squares.
   
 - **Connections between odd squares and triangular numbers**: Investigating how subtracting 1 from odd square numbers leads to multiples of triangular numbers.
 
